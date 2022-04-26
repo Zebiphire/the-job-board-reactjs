@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Netlify deploy
 
-Example: https://jovial-nasturtium-312c2c.netlify.app/
+Example: https://the-job-board-training-reactjs.netlify.app/
 
 ## Available Scripts
 
